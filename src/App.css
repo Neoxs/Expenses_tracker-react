@@ -87,6 +87,10 @@ input[type='number'] {
   width: 100%;
 }
 
+.error {
+  border: 1px solid red !important;
+}
+
 .btn {
   cursor: pointer;
   background-color: #9c88ff;
